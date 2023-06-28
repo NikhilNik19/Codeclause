@@ -1,2 +1,4 @@
 # Codeclause
-Projects here are part of my internship program
+Hi everyone!!
+I have created a scientific caluclator using Python and tkinter
+
